@@ -44,6 +44,11 @@ MAUI.</p>
 			width="150"
 			src="https://udemy-certificate.s3.amazonaws.com/image/UC-71778019-1605-4e9b-900a-7dc4e5117c66.jpg?v=1764305557000"/>
 	</a>
+	<a href="https://www.udemy.com/certificate/UC-c152ab29-3878-4ef8-b74a-730fe0f6afb5/">
+		<img 
+			width="150"
+			src="https://udemy-certificate.s3.amazonaws.com/image/UC-c152ab29-3878-4ef8-b74a-730fe0f6afb5.jpg?v=1659301200000"/>
+	</a>
 </p>
 
 ----
