@@ -1,5 +1,5 @@
 
-## Soy, Dennis Ponce <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+##  <img src = "https://lh3.googleusercontent.com/a/ACg8ocJ1M_OPNJBfIcSJDaO41IM0NZP2YwruPn3la627c6XM89PUXng=s400-c" width = 50px> Soy, Dennis Ponce
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+de+Software;Tecnologo+en+Sistemas" alt="Typing SVG" /></a>
 </p>
@@ -13,13 +13,15 @@
   </a>
 </p>
 
+<p>Backend Developer Jr. con 1 año de experiencia en desarrollo backend con .NET (C#) y SQL
+Server, enfocado en la creación de APIs REST aplicando buenas prácticas de seguridad basadas
+en OWASP Top 10 y arquitecturas cliente–servidor, N-Capas, Hexagonal. Experiencia previa
+trabajando con Java y Laravel en proyectos colaborativos, así como en la integración de
+frontend con React y Blade, y el desarrollo de aplicaciones móviles multiplataforma con .NET
+MAUI.</p>
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
-</p>
 
-
-
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Stack Tecnologico<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
