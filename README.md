@@ -1,7 +1,7 @@
 
 ## Soy, Dennis Ponce <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Soy%20Desarrollador%20de%20Software" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+de+Software;Tecnologo+en+Sistemas" alt="Typing SVG" /></a>
 </p>
 
 <p align ="center">
