@@ -39,10 +39,10 @@ MAUI.</p>
 			width="150"
 			src="https://udemy-certificate.s3.amazonaws.com/image/UC-8f30b7cc-9eeb-4c3d-87a4-109c5e076ef2.jpg?v=1766005312000"/>
 	</a>
-	<a href="https://www.udemy.com/certificate/UC-809cb03f-ac5b-4964-93c0-7ddd5ad87c80/">
+	<a href="https://www.udemy.com/certificate/UC-71778019-1605-4e9b-900a-7dc4e5117c66/">
 		<img 
 			width="150"
-			src="https://udemy-certificate.s3.amazonaws.com/image/UC-8f30b7cc-9eeb-4c3d-87a4-109c5e076ef2.jpg?v=1766005312000"/>
+			src="https://udemy-certificate.s3.amazonaws.com/image/UC-71778019-1605-4e9b-900a-7dc4e5117c66.jpg?v=1764305557000"/>
 	</a>
 </p>
 
