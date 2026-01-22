@@ -25,6 +25,8 @@ MAUI.</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,bash,cs,dotnet,git,java,laravel,mysql,php,py,react)](https://skillicons.dev)
 
+
+
 ----
 
 ## Certificaciones
@@ -49,6 +51,15 @@ MAUI.</p>
 			width="150"
 			src="https://udemy-certificate.s3.amazonaws.com/image/UC-c152ab29-3878-4ef8-b74a-730fe0f6afb5.jpg?v=1659301200000"/>
 	</a>
+</p>
+
+----
+### ⚙️ &nbsp;GitHub Analisis
+
+
+<p align="center">
+  <img src="https://github-readme-stats-livid-ten-75.vercel.app/api/top-langs/?username=dell-kl&layout=compact&theme=radical" />
+  <!-- <img src="https://github-readme-stats-livid-ten-75.vercel.app/api?username=xrl3y&show_icons=true&theme=radical" />   $$ Comentar Linea de Estaditicas -->
 </p>
 
 ----
