@@ -11,6 +11,9 @@
 	<a href="https://www.linkedin.com/in/dennis-ponce-469744291/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://gitlab.com/dell-kl" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&&logo=gitlab">
+  </a>
 </p>
 
 <p>Backend Developer Jr. con 1 año de experiencia en desarrollo backend con .NET (C#) y SQL
