@@ -57,6 +57,38 @@ MAUI.</p>
 </p>
 
 ----
+
+### HackTheBox Academy
+
+<p>
+	<a href="https://academy.hackthebox.com/achievement/481301/35">
+		<img 
+			width="150"
+			src="https://github.com/user-attachments/assets/6c230516-ff61-48dd-bdb4-cccfffd28829"/>
+	</a>
+	<a href="https://academy.hackthebox.com/achievement/481301/75">
+		<img 
+			width="150"
+			src="https://github.com/user-attachments/assets/093996f7-4e21-4f6d-87f6-ca6361bf9281""/>
+	</a>
+	<a href="https://academy.hackthebox.com/achievement/481301/110">
+		<img 
+			width="150"
+			src="https://github.com/user-attachments/assets/d91d3ac0-da0e-4586-9a00-b82e2c534974"/>
+	</a>
+	<a href="https://academy.hackthebox.com/achievement/481301/109">
+		<img 
+			width="150"
+			src="https://github.com/user-attachments/assets/98c3c5a7-3820-4dcb-848c-6ef67c9df0fc"/>
+	</a>
+	<a href="https://academy.hackthebox.com/achievement/481301/145">
+		<img 
+			width="150"
+			src="https://github.com/user-attachments/assets/6793e0c9-fd25-441f-b32b-889f0676f1ff"/>
+	</a>
+</p>
+
+----
 ### ⚙️ &nbsp;GitHub Analisis
 
 
