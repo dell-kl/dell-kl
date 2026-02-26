@@ -16,12 +16,7 @@
   </a>
 </p>
 
-<p>Backend Developer Jr. con 1 año de experiencia en desarrollo backend con .NET (C#) y SQL
-Server, enfocado en la creación de APIs REST aplicando buenas prácticas de seguridad basadas
-en OWASP Top 10 y arquitecturas cliente–servidor, N-Capas, Hexagonal. Experiencia previa
-trabajando con Java y Laravel en proyectos colaborativos, así como en la integración de
-frontend con React y Blade, y el desarrollo de aplicaciones móviles multiplataforma con .NET
-MAUI.</p>
+<p>Full Stack Developer Jr. con enfoque sólido en backend (Laravel, .NET, Java) y experiencia en la construcción de APIs REST seguras y escalables. He trabajado bajo arquitecturas estructuradas (N-Capas, Hexagonal), integrando servicios backend con frontend en React y Blade, y desarrollando aplicaciones móviles con .NET MAUI..</p>
 
 
 ## Stack Tecnologico<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
