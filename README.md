@@ -12,9 +12,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://gitlab.com/dell-kl" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&&logo=gitlab">
+    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&&logo=gitlab">
+  </a>
+  <a href="https://hub.docker.com/u/s7nn3decn0p07" target="_blank">
+    <img alt="Docker" width="50"  src="https://github.com/user-attachments/assets/f3f58a26-fbb2-4041-a2c1-fba0731f30f5">
   </a>
 </p>
+
 
 <p>Full Stack Developer Jr. con enfoque sólido en backend (Laravel, .NET, Java) y experiencia en la construcción de APIs REST seguras y escalables. He trabajado bajo arquitecturas estructuradas (N-Capas, Hexagonal), integrando servicios backend con frontend en React y Blade, y desarrollando aplicaciones móviles con .NET MAUI..</p>
 
