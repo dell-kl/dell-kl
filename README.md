@@ -29,18 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,kali,bash,cs,dotnet,git,angular,py,powershell)](https://skillicons.dev)
 
-
-----
-### ⚙️ &nbsp;GitHub Analisis
-
-
-<p align="center">
-  <img src="https://github-readme-stats-livid-ten-75.vercel.app/api/top-langs/?username=dell-kl&layout=compact&theme=radical" />
-  <!-- <img src="https://github-readme-stats-livid-ten-75.vercel.app/api?username=xrl3y&show_icons=true&theme=radical" />   $$ Comentar Linea de Estaditicas -->
-</p>
-
-----
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
