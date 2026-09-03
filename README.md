@@ -11,8 +11,8 @@
 	<a href="https://www.linkedin.com/in/dennis-ponce-469744291/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://gitlab.com/dell-kl" target="_blank">
-    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&&logo=gitlab">
+  <a href="https://profile.hackthebox.com/profile/019c5f13-f519-70ed-936e-2cc1f88bd94e?utm_medium=copy_url" target="_blank">
+    <img alt="HacktheBox" src="https://img.shields.io/badge/-Hackthebox-brightgreen?style=for-the-badge&&logo=hackthebox&logoColor=white">
   </a>
   <a href="https://hub.docker.com/u/s7nn3decn0p07" target="_blank">
     <img alt="Docker" width="50"  src="https://github.com/user-attachments/assets/f3f58a26-fbb2-4041-a2c1-fba0731f30f5">
@@ -20,72 +20,15 @@
 </p>
 
 
-<p>Full Stack Developer Jr. con enfoque sólido en backend (Laravel, .NET, Java) y experiencia en la construcción de APIs REST seguras y escalables. He trabajado bajo arquitecturas estructuradas (N-Capas, Hexagonal), integrando servicios backend con frontend en React y Blade, y desarrollando aplicaciones móviles con .NET MAUI..</p>
+<p>Desarrollador .NET con experiencia en diseño y desarrollo de APIs REST con C# (.NET Core y .NET Framework), Entity Framework Core, LINQ, async/await y SQL Server, aplicando Clean Architecture, CQRS (MediatR) y principios SOLID en sistemas actualmente en producción. Experiencia en frontend con Angular , y en desarrollo móvil multiplataforma con .NET MAUI. Enfocado en código legible, testeable y de bajo acoplamiento, con manejo de excepciones, logging (ILogger) y pruebas unitarias con xUnit. He tenido la oportunidad de trabajar en equipos de trabajo para el desarrollo de sistemas, definiendo requisitos funcionales, documentarlos y poder llevarlo finalmente al software. </p>
+
+<p>Actualmente me sigo capacitando a la par en la ciberseguridad. Desarrollando habilidades de pentesting para poder unirlo con el desarrollo de software. Aprendiendo las amenazas más comunes que pueden ocurrir que están dentro del OWASP TOP 10. </p>
 
 
 ## Stack Tecnologico<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,debian,kali,bash,cs,dotnet,git,java,laravel,mysql,php,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,kali,bash,cs,dotnet,git,angular,py,powershell)](https://skillicons.dev)
 
-
-
-----
-
-## Certificaciones
-<p>
-	<a href="https://www.udemy.com/certificate/UC-809cb03f-ac5b-4964-93c0-7ddd5ad87c80/">
-		<img 
-			width="150"
-			src="https://udemy-certificate.s3.amazonaws.com/image/UC-809cb03f-ac5b-4964-93c0-7ddd5ad87c80.jpg?v=1745911222000"/>
-	</a>
-	<a href="https://www.udemy.com/certificate/UC-8f30b7cc-9eeb-4c3d-87a4-109c5e076ef2/">
-		<img 
-			width="150"
-			src="https://udemy-certificate.s3.amazonaws.com/image/UC-8f30b7cc-9eeb-4c3d-87a4-109c5e076ef2.jpg?v=1766005312000"/>
-	</a>
-	<a href="https://www.udemy.com/certificate/UC-71778019-1605-4e9b-900a-7dc4e5117c66/">
-		<img 
-			width="150"
-			src="https://udemy-certificate.s3.amazonaws.com/image/UC-71778019-1605-4e9b-900a-7dc4e5117c66.jpg?v=1764305557000"/>
-	</a>
-	<a href="https://www.udemy.com/certificate/UC-c152ab29-3878-4ef8-b74a-730fe0f6afb5/">
-		<img 
-			width="150"
-			src="https://udemy-certificate.s3.amazonaws.com/image/UC-c152ab29-3878-4ef8-b74a-730fe0f6afb5.jpg?v=1659301200000"/>
-	</a>
-</p>
-
-----
-
-### HackTheBox Academy
-
-<p>
-	<a href="https://academy.hackthebox.com/achievement/481301/35">
-		<img 
-			width="150"
-			src="https://github.com/user-attachments/assets/6c230516-ff61-48dd-bdb4-cccfffd28829"/>
-	</a>
-	<a href="https://academy.hackthebox.com/achievement/481301/75">
-		<img 
-			width="150"
-			src="https://github.com/user-attachments/assets/093996f7-4e21-4f6d-87f6-ca6361bf9281""/>
-	</a>
-	<a href="https://academy.hackthebox.com/achievement/481301/110">
-		<img 
-			width="150"
-			src="https://github.com/user-attachments/assets/d91d3ac0-da0e-4586-9a00-b82e2c534974"/>
-	</a>
-	<a href="https://academy.hackthebox.com/achievement/481301/109">
-		<img 
-			width="150"
-			src="https://github.com/user-attachments/assets/98c3c5a7-3820-4dcb-848c-6ef67c9df0fc"/>
-	</a>
-	<a href="https://academy.hackthebox.com/achievement/481301/145">
-		<img 
-			width="150"
-			src="https://github.com/user-attachments/assets/6793e0c9-fd25-441f-b32b-889f0676f1ff"/>
-	</a>
-</p>
 
 ----
 ### ⚙️ &nbsp;GitHub Analisis
